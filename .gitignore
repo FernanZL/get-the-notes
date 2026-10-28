@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Node
+node_modules/
+dist/
+
+# App data
+data/
+out/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+*.log
